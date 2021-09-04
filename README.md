@@ -1,0 +1,4 @@
+- 👋 Hi, welcome to my Github profile !  My name is Kiran M Kannur, and I'm currently pursuing computer science engineering at PES University.
+- 👀 I’m intrested in the world of machine learning and data analytics, mechanical engineering, drone technolofy and IoT.
+- 🌱 I’m currently learning Computer Science engineering moslty focused on deep learning.
+- 📫 You can reach me @kiran.kanur72@gmail.com 
